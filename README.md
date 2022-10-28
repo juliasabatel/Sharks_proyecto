@@ -1,4 +1,11 @@
 #  Sharks_proyecto
+Requisitos del problema:
+a) Borrar columnas si solo len(Nan)>80%
+b) Al menos 6000 filas
+c)mismo tipo de dato
+
+
+
 Exploración y limpieza:
 1. Exploración del archivo
 2. Corrección de los nombres de las columnas
