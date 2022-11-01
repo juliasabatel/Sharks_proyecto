@@ -32,6 +32,15 @@ First Proyect
 
 ⚙️ Correction of the column names
 
+🦈 Shark attack deaths by sex
+
+/Users/juliasabatel/Desktop/Sharks_proyecto/imagenes/Captura de Pantalla 2022-11-01 a las 8.52.44.png
+
+🛳 Types of shark deaths
+
+/Users/juliasabatel/Desktop/Sharks_proyecto/imagenes/Captura de Pantalla 2022-11-01 a las 8.53.58.png
+
+
 🌡 Export and analysis
 
 
