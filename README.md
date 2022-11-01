@@ -2,8 +2,7 @@
 
 First Proyect
 
-![conocer-naturaleza-tiburon-limon-bruce-buscando-a-nemo-xlsemanal-2](https://user-images.githubusercontent.com/29893993/199183895-b8c1c634-92eb-4eb2-8af6-11649d22ec44.jpg)
-
+![Aquatic-Nemo-Shark-PNG-Clipart](https://user-images.githubusercontent.com/29893993/199190981-362efdf0-3e32-45a8-b7a8-17a53722a646.png)
 
 # Goals
 
