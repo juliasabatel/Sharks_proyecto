@@ -2,7 +2,7 @@
 
 First Proyect
 
-![Aquatic-Nemo-Shark-PNG-Clipart](https://user-images.githubusercontent.com/29893993/199190981-362efdf0-3e32-45a8-b7a8-17a53722a646.png)
+
 
 # Goals
 
