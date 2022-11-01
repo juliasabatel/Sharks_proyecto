@@ -9,9 +9,6 @@ First Proyect
 
 🌍 Know which are the countries with more shark deaths
 
-<img width="1066" alt="Captura de Pantalla 2022-11-01 a las 8 41 25" src="https://user-images.githubusercontent.com/29893993/199184218-443e4978-4f65-43ed-bd2a-794443d581f8.png">
-
-
 ✂️ Maintain at least 6000 rows 
 
 🧹Clean the dataset 
@@ -29,12 +26,17 @@ First Proyect
 
 💣 Deletion of null values
 
+🔥 By means of this heat plot we see how many null values there are.
 
 <img width="825" alt="Captura de Pantalla 2022-11-01 a las 8 39 00" src="https://user-images.githubusercontent.com/29893993/199184130-dccf7044-aae0-45d3-9a76-55c310a54c93.png">
 
 🔧 Correction of null values
 
 ⚙️ Correction of the column names
+
+🌍 Know which are the countries with more shark deaths
+
+<img width="1066" alt="Captura de Pantalla 2022-11-01 a las 8 41 25" src="https://user-images.githubusercontent.com/29893993/199184218-443e4978-4f65-43ed-bd2a-794443d581f8.png">
 
 🦈 Shark attack deaths by sex
 
