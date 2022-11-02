@@ -40,9 +40,11 @@ The following heat plot shows how the initial graph looks like after eliminating
 
 <img width="825" alt="Captura de Pantalla 2022-11-01 a las 8 39 00" src="https://user-images.githubusercontent.com/29893993/199184130-dccf7044-aae0-45d3-9a76-55c310a54c93.png">
 
-🔧 Correction of null values
+🔧 Correction of values
 
-⚙️ Correction of the column names
+The next step will be the correction of values, including null values. This is done in such a way that, by means of the scanning performed, you see those values to be corrected, starting with the correction of the column names, changing the names, eliminating commas, periods... 
+Then the null values are renamed as 'Unknown' (already commented in the previous step). 
+We modify the column 'CaseNumber' so that the data appears in date format yyyy/yyyy/yy, eliminating the '/' and changing it to '-'.
 
 🌟 Our target column has been cleaned up by naming all irrelevant countries that were repeated less than 50 times as "Unknown"
 
