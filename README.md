@@ -22,7 +22,7 @@ In order to reach this objective, the first step was to clean the selected colum
 
 🔎 Data scanning
 
-
+The first step has been to explore all the information that the database offers us and to order the cleaning steps to follow. First of all we will correct typing errors such as '.' ',' '/' etc...
 
 👀 Duplicate deletion
 
