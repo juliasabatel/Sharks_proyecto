@@ -35,7 +35,8 @@ In addition, this information is represented in a heat map in which the yellow s
 
 💣 Deletion of null values
 
-🔥 By means of this heat plot we see how many null values there are.
+Next, we proceed with the cleaning of the null values. The columns with more than 80% of null values will be eliminated, since they do not provide us with relevant information. The rest of the null values will be renamed as "Unknown" since the quality of the data cannot be guaranteed, but it does not meet the requirements to be eliminated.
+The following heat plot shows how the initial graph looks like after eliminating the columns with more than 80% of null cases.
 
 <img width="825" alt="Captura de Pantalla 2022-11-01 a las 8 39 00" src="https://user-images.githubusercontent.com/29893993/199184130-dccf7044-aae0-45d3-9a76-55c310a54c93.png">
 
