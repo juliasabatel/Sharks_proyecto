@@ -77,7 +77,7 @@ Below is the table resulting from the search for our target, the number of shark
 
 🦈 Shark attack deaths by sex
 
-Finally, through the cleaning performed, it is interesting to see the higher number of shark attack fatalities based on the sex of the victim. The following graph clearly shows how the high number of female cases fail to survive a shark attack.
+Finally, through the cleaning performed, it is interesting to see the higher number of shark attack fatalities based on the sex of the victim. The following graph clearly shows how the high number of male cases fail to survive a shark attack.
 
 <img width="760" alt="Captura de Pantalla 2022-11-01 a las 8 52 44" src="https://user-images.githubusercontent.com/29893993/199186876-5b9a38b1-6c81-447b-9963-330c8361e7b7.png">
 
