@@ -22,9 +22,10 @@ In order to reach this objective, the first step was to clean the selected colum
 
 🔎 Data scanning
 
-The first step has been to explore all the information that the database offers us and to order the cleaning steps to follow. First of all we will correct typing errors such as '.' ',' '/' etc...
+The first step has been to explore all the information offered by the database and to order the cleaning steps to be followed. To do this we have studied the shape, number of rows and columns, null values, duplicate values, comparisons, exploration in type of value.
 
 👀 Duplicate deletion
+
 
 <img width="825" alt="Captura de Pantalla 2022-11-01 a las 8 40 04" src="https://user-images.githubusercontent.com/29893993/199183997-d3ddd512-f0cc-4188-a6d0-1d8f2fb7cc56.png">
 
