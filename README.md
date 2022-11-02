@@ -1,8 +1,7 @@
 #  Sharks_proyecto
 
-First Proyect
-
-
+First project carried out on database cleaning. Specifically, it consists of obtaining a main objective, which is to know which country has the highest number of people killed by shark attacks. 
+In order to reach this objective, the first step was to clean the selected columns through which more information was extracted, such as the type of death or sex.
 
 # Goals
 
