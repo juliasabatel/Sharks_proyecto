@@ -44,7 +44,7 @@ The following heat plot shows how the initial graph looks like after eliminating
 
 The next step will be the correction of values, including null values. This is done in such a way that, by means of the scanning performed, you see those values to be corrected, starting with the correction of the column names, changing the names, eliminating commas, periods... 
 Then the null values are renamed as 'Unknown' (already commented in the previous step). 
-We modify the column 'CaseNumber' so that the data appears in date format yyyy/yyyy/yy, eliminating the '/' and changing it to '-'.
+We modify the column 'CaseNumber' so that the data appears in date format yyyy/yy/yy, eliminating the '/' and changing it to '-'.
 
 🌟 Type column cleaning
 
