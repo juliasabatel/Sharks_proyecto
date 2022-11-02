@@ -5,11 +5,13 @@ In order to reach this objective, the first step was to clean the selected colum
 
 # Goals
 
-🌍 Know which are the countries with more shark deaths
+🧹Clean the dataset 
 
 ✂️ Maintain at least 6000 rows 
 
-🧹Clean the dataset 
+🌍 Know which are the countries with more shark deaths
+
+⚙️ Use of five cleaning techniques
 
 
 # Steps
