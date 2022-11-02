@@ -65,22 +65,28 @@ The cleaning of the 'Sex' column has been carried out with a procedure similar t
 
 🛳 Types of shark deaths
 
+The following graph shows how, based on the variable 'Type', the number of deaths due to shark attacks has been given.
+
 <img width="998" alt="Captura de Pantalla 2022-11-01 a las 8 53 58" src="https://user-images.githubusercontent.com/29893993/199186855-b27a52a0-f0aa-4c97-ae71-5e7691d1b4c9.png">
 
 🌍 Know which are the countries with more shark deaths
+
+Below is the table resulting from the search for our target, the number of shark attack fatalities by country. Clearly it can be seen that the USA is the country with the highest number of fatal attacks.
 
 <img width="1066" alt="Captura de Pantalla 2022-11-01 a las 8 41 25" src="https://user-images.githubusercontent.com/29893993/199184218-443e4978-4f65-43ed-bd2a-794443d581f8.png">
 
 🦈 Shark attack deaths by sex
 
+Finally, through the cleaning performed, it is interesting to see the higher number of shark attack fatalities based on the sex of the victim. The following graph clearly shows how the high number of female cases fail to survive a shark attack.
+
 <img width="760" alt="Captura de Pantalla 2022-11-01 a las 8 52 44" src="https://user-images.githubusercontent.com/29893993/199186876-5b9a38b1-6c81-447b-9963-330c8361e7b7.png">
-
-
 
 
 🌡 Export and analysis
 
+Finally we export the database.
 
+📝 One of the most interesting things about this project is that it is infinite so we will continue cleaning and analyzing tables to have the results as concrete as possible.
 
 
 
