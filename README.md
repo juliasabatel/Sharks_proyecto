@@ -46,7 +46,26 @@ The next step will be the correction of values, including null values. This is d
 Then the null values are renamed as 'Unknown' (already commented in the previous step). 
 We modify the column 'CaseNumber' so that the data appears in date format yyyy/yyyy/yy, eliminating the '/' and changing it to '-'.
 
-🌟 Our target column has been cleaned up by naming all irrelevant countries that were repeated less than 50 times as "Unknown"
+🌟 Type column cleaning
+
+To carry out the cleaning of the Type column, the content of the variables was analyzed by naming three of them as a single variable since they shared the same type of information.
+
+🌟 Country column cleaning
+
+The 'Country' column has been cleaned in depth since it is one of the most important points of the analysis. 
+After studying the unique values, we see that there are numerous countries that are not representative for the analysis, these will be renamed as 'Unknown' since only 1.052% of the information would be lost. We do this by establishing that if they are repeated less than 50 times they are called 'Unknown'. 
+
+🌟 Fatal column cleaning
+
+The cleaning of the fatal column has been key to this analysis. With this information we can know the number of attacks that have been fatal and those in which people have survived. In this case our focus is on those people killed by shark attacks.
+
+🌟 Sex column cleaning
+
+The cleaning of the 'Sex' column has been carried out with a procedure similar to that performed for the 'Type' column. Our objective was to clean the values that did not refer to a gender, since in future analyses this information will be needed to analyze it together with the 'Fatal' variable.
+
+🛳 Types of shark deaths
+
+<img width="998" alt="Captura de Pantalla 2022-11-01 a las 8 53 58" src="https://user-images.githubusercontent.com/29893993/199186855-b27a52a0-f0aa-4c97-ae71-5e7691d1b4c9.png">
 
 🌍 Know which are the countries with more shark deaths
 
@@ -56,10 +75,6 @@ We modify the column 'CaseNumber' so that the data appears in date format yyyy/y
 
 <img width="760" alt="Captura de Pantalla 2022-11-01 a las 8 52 44" src="https://user-images.githubusercontent.com/29893993/199186876-5b9a38b1-6c81-447b-9963-330c8361e7b7.png">
 
-
-🛳 Types of shark deaths
-
-<img width="998" alt="Captura de Pantalla 2022-11-01 a las 8 53 58" src="https://user-images.githubusercontent.com/29893993/199186855-b27a52a0-f0aa-4c97-ae71-5e7691d1b4c9.png">
 
 
 
