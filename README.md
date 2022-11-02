@@ -26,9 +26,11 @@ The first step has been to explore all the information offered by the database a
 
 👀 Duplicate deletion
 
+After the null scan we perform the elimination of duplicate values, but before, we establish a comparison between the number of the initial rows and how it would be after eliminating the duplicates to verify that we will keep more than 6000 rows.
+In addition, this information is represented in a heat map in which the yellow stripes correspond to the null values that we will deal with in the next step.
+
 
 <img width="825" alt="Captura de Pantalla 2022-11-01 a las 8 40 04" src="https://user-images.githubusercontent.com/29893993/199183997-d3ddd512-f0cc-4188-a6d0-1d8f2fb7cc56.png">
-
 
 
 💣 Deletion of null values
