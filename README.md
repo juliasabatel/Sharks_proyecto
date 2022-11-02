@@ -9,14 +9,20 @@ In order to reach this objective, the first step was to clean the selected colum
 
 ✂️ Maintain at least 6000 rows 
 
+⚙️ Use of five cleaning techniques
+
 🌍 Know which are the countries with more shark deaths
 
-⚙️ Use of five cleaning techniques
+⛵️ Deaths from shark attacks by type
+
+✨ Shark attack fatalities by gender
 
 
 # Steps
 
 🔎 Data scanning
+
+
 
 👀 Duplicate deletion
 
